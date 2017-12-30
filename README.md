@@ -12,6 +12,7 @@ You'll now be loaded into the prompt like so:
 ```
 Welcome to your marvel tracker!!!
 What action would you like to do?
+> 
 ```
 
 ## Commands

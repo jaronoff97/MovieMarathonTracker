@@ -122,11 +122,19 @@ class MarvelTracker(object):
     def help(self, _):
         print("==========HELP==========")
         print("Available commands")
-        print("\tHelp")
-        print("\tNext n items")
-        print("\tWatched n items")
-        print("\tUnwatched n items")
-        print("\tGet info")
+        print("\t* Help")
+        print("\t\t* Get the avaialble commands")
+        print("\t* Next n items")
+        print("\t\t* Display the next {n} items you need to watch")
+        print("\t* Watched n items")
+        print("\t\t* Mark that you watched {n} items")
+        print("\t* Unwatched n items")
+        print("\t\t* Unmark that you watched {n} items," +
+              "maybe you want to rewatch some more, or you messed up marking")
+        print("\t* Get info")
+        print("\t\t* Get some basic metadata")
+        print("\t* Exit")
+        print("\t\t* Self explanatory")
 
     def get_action(self, user_input):
         nums = [int(s) for s in user_input.split() if s.isdigit()]
@@ -140,5 +148,5 @@ if __name__ == '__main__':
         print("Welcome to your marvel tracker!!!")
         user_input = ""
         while user_input != "exit":
-            user_input = raw_input("What action would you like to do?\n")
+            user_input = raw_input("What action would you like to do?\n> ")
             tracker.get_action(user_input.lower())

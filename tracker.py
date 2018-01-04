@@ -142,14 +142,14 @@ class MarvelTracker(object):
         print("==========GET INFO==========")
         watched = [t for t in self.trackedFile if self.str2bool(t[3])]
         unwatched = [t for t in self.trackedFile if not self.str2bool(t[3])]
-        hours = sum([int(t[1]) for t in watched if t[1].isdigit()])
-        hoursTotal = sum([int(t[1]) for t in unwatched if t[1].isdigit()])
+        minutes = sum([int(t[1]) for t in watched if t[1].isdigit()])
+        minutesTotal = sum([int(t[1]) for t in unwatched if t[1].isdigit()])
         print("\t{0} pieces of content".format(len(watched)))
-        print("\t{0} hours of content".format(hours))
+        print("\t{0} minutes of content".format(minutes))
         print("\t{0} pieces of content left".format(
             len(self.trackedFile) - len(watched)))
-        print("\t{0} hours of content left".format(
-            hoursTotal - hours))
+        print("\t{0} minutes of content left".format(
+            minutesTotal - minutes))
         print("==========GET INFO==========")
 
     def help(self, _):

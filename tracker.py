@@ -149,7 +149,7 @@ class MarvelTracker(object):
         print("\t{0} pieces of content left".format(
             len(self.trackedFile) - len(watched)))
         print("\t{0} minutes of content left".format(
-            minutesTotal - minutes))
+            minutesTotal))
         print("==========GET INFO==========")
 
     def help(self, _):

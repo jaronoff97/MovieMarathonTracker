@@ -214,61 +214,72 @@ The Defenders S01E05: Take Shelter,51,TV,True
 "The Defenders S01E06: Ashes, Ashes",51,TV,True
 The Defenders S01E07: Fish in the Jailhouse,46,TV,True
 The Defenders S01E08: The Defenders,57,TV,True
-Inhumans S01E01: Behold... The Inhumans,41,TV,FALSE
-Inhumans S01E02: Those Who Would Destroy Us,41,TV,FALSE
-Inhumans S01E03: Divide and Conquer,41,TV,FALSE
-Inhumans S01E04: Make Way for... Medusa,40,TV,FALSE
-Inhumans S01E05: Something Inhuman This Way Comes...,42,TV,FALSE
-Inhumans S01E06: The Gentleman's Name is Gorgon,41,TV,FALSE
-Thor: Ragnarok,130,Movie,FALSE
-Inhumans S01E07: Havoc in the Hidden Land,42,TV,FALSE
-Inhumans S01E08: ...And Finally: Black Bolt,42,TV,FALSE
-The Punisher S01E01: 3 AM,51,TV,FALSE
-The Punisher S01E02: Two Dead Men,57,TV,FALSE
-The Punisher S01E03: Kandahar,58,TV,FALSE
-The Punisher S01E04: Resupply,49,TV,FALSE
-The Punisher S01E05: Gunner,55,TV,FALSE
-The Punisher S01E06: The Judas Goat,55,TV,FALSE
-The Punisher S01E07: Crosshairs,49,TV,FALSE
-The Punisher S01E08: Cold Steel,53,TV,FALSE
-The Punisher S01E09: Front Towards Enemy,54,TV,FALSE
-The Punisher S01E10: Virtue of the Vicious,49,TV,FALSE
-The Punisher S01E11: Danger Close,52,TV,FALSE
-The Punisher S01E12: Home,51,TV,FALSE
-The Punisher S01E13: Memento Mori,55,TV,FALSE
-Runaways S01E01: Reunion,53,TV,FALSE
-Runaways S01E02: Rewind,49,TV,FALSE
-Runaways S01E03: Destiny,46,TV,FALSE
-Runaways S01E04: Fifteen,52,TV,FALSE
-"Agents of S.H.I.E.L.D. S05E01: Orientation, Part 1",42,TV,FALSE
-"Agents of S.H.I.E.L.D. S05E02: Orientation, Part 2",42,TV,FALSE
-Runaways S01E05: Kingdom,47,TV,FALSE
-Agents of S.H.I.E.L.D. S05E03: A Life Spent,42,TV,FALSE
-Runaways S01E06: Metamorphosis,50,TV,FALSE
-Agents of S.H.I.E.L.D. S05E04: A Life Earned,42,TV,FALSE
-Runaways S01E07: Refraction,54,TV,FALSE
-Agents of S.H.I.E.L.D. S05E05: Rewind,42,TV,FALSE
-Runaways S01E08: Tsunami,50,TV,FALSE
-Runaways S01E09: Doomsday,45,TV,FALSE
-Agents of S.H.I.E.L.D. S05E06: Fun & Games,42,TV,FALSE
-Runaways S01E10: Hostile,48,TV,FALSE
-Agents of S.H.I.E.L.D. S05E07: Together or Not at All,40,TV,FALSE
-Agents of S.H.I.E.L.D. S05E08: The Last Day,42,TV,FALSE
-Agents of S.H.I.E.L.D. S05E09: Best Laid Plans,41,TV,FALSE
-Agents of S.H.I.E.L.D. S05E10: Past Life,42,TV,FALSE
-Black Panther,134,Movie,FALSE
-Agents of S.H.I.E.L.D. S05E11: All the Comforts of Home,,TV,FALSE
-Jessica Jones S02E01:,,TV,FALSE
-Jessica Jones S02E02:,,TV,FALSE
-Jessica Jones S02E03:,,TV,FALSE
-Jessica Jones S02E04:,,TV,FALSE
-Jessica Jones S02E05:,,TV,FALSE
-Jessica Jones S02E06:,,TV,FALSE
-Jessica Jones S02E07:,,TV,FALSE
-Jessica Jones S02E08:,,TV,FALSE
-Jessica Jones S02E09:,,TV,FALSE
-Jessica Jones S02E10:,,TV,FALSE
-Jessica Jones S02E11:,,TV,FALSE
-Jessica Jones S02E12:,,TV,FALSE
-Jessica Jones S02E13:,,TV,FALSE
-Agents of S.H.I.E.L.D. S05E12: #100,,TV,FALSE
+Inhumans S01E01: Behold... The Inhumans,41,TV,True
+Inhumans S01E02: Those Who Would Destroy Us,41,TV,True
+Inhumans S01E03: Divide and Conquer,41,TV,True
+Inhumans S01E04: Make Way for... Medusa,40,TV,True
+Inhumans S01E05: Something Inhuman This Way Comes...,42,TV,True
+Inhumans S01E06: The Gentleman's Name is Gorgon,41,TV,True
+Thor: Ragnarok,130,Movie,True
+Inhumans S01E07: Havoc in the Hidden Land,42,TV,True
+Inhumans S01E08: ...And Finally: Black Bolt,42,TV,True
+The Punisher S01E01: 3 AM,51,TV,True
+The Punisher S01E02: Two Dead Men,57,TV,True
+The Punisher S01E03: Kandahar,58,TV,True
+The Punisher S01E04: Resupply,49,TV,True
+The Punisher S01E05: Gunner,55,TV,True
+The Punisher S01E06: The Judas Goat,55,TV,True
+The Punisher S01E07: Crosshairs,49,TV,True
+The Punisher S01E08: Cold Steel,53,TV,True
+The Punisher S01E09: Front Towards Enemy,54,TV,True
+The Punisher S01E10: Virtue of the Vicious,49,TV,True
+The Punisher S01E11: Danger Close,52,TV,True
+The Punisher S01E12: Home,51,TV,True
+The Punisher S01E13: Memento Mori,55,TV,True
+Runaways S01E01: Reunion,53,TV,True
+Runaways S01E02: Rewind,49,TV,True
+Runaways S01E03: Destiny,46,TV,True
+Runaways S01E04: Fifteen,52,TV,True
+"Agents of S.H.I.E.L.D. S05E01: Orientation, Part 1",42,TV,True
+"Agents of S.H.I.E.L.D. S05E02: Orientation, Part 2",42,TV,True
+Runaways S01E05: Kingdom,47,TV,True
+Agents of S.H.I.E.L.D. S05E03: A Life Spent,42,TV,True
+Runaways S01E06: Metamorphosis,50,TV,True
+Agents of S.H.I.E.L.D. S05E04: A Life Earned,42,TV,True
+Runaways S01E07: Refraction,54,TV,True
+Agents of S.H.I.E.L.D. S05E05: Rewind,42,TV,True
+Runaways S01E08: Tsunami,50,TV,True
+Runaways S01E09: Doomsday,45,TV,True
+Agents of S.H.I.E.L.D. S05E06: Fun & Games,42,TV,True
+Runaways S01E10: Hostile,48,TV,True
+Agents of S.H.I.E.L.D. S05E07: Together or Not at All,40,TV,True
+Agents of S.H.I.E.L.D. S05E08: The Last Day,42,TV,True
+Agents of S.H.I.E.L.D. S05E09: Best Laid Plans,41,TV,True
+Agents of S.H.I.E.L.D. S05E10: Past Life,42,TV,True
+Black Panther,134,Movie,True
+Agents of S.H.I.E.L.D. S05E11: All the Comforts of Home,42,TV,True
+Jessica Jones S02E01: AKA Start at the Beginning,52,TV,True
+Jessica Jones S02E02: AKA Freak Accident,55,TV,True
+Jessica Jones S02E03: AKA Sole Survivor,53,TV,True
+Jessica Jones S02E04: AKA God Help the Hobo,49,TV,True
+Jessica Jones S02E05: AKA The Octopus,51,TV,True
+Jessica Jones S02E06: AKA Facetime,48,TV,True
+Jessica Jones S02E07: AKA I Want Your Cray Cray,52,TV,True
+Jessica Jones S02E08: AKA Ain't We Got Fun,49,TV,True
+"Jessica Jones S02E09: AKA Shark in the Bathtub, Monster in the Bed",49,TV,True
+Jessica Jones S02E10: AKA Pork Chop,54,TV,True
+Jessica Jones S02E11: AKA Three Lives and Counting,48,TV,True
+Jessica Jones S02E12: AKA Pray For My Patsy,46,TV,True
+Jessica Jones S02E13: AKA Playland,52,TV,True
+Agents of S.H.I.E.L.D. S05E12: The Real Deal,43,TV,True
+Agents of S.H.I.E.L.D. S05E13: Principia,42,TV,FALSE
+Agents of S.H.I.E.L.D. S05E14: The Devil Complex,42,TV,FALSE
+Agents of S.H.I.E.L.D. S05E15: Rise and Shine,43,TV,FALSE
+Agents of S.H.I.E.L.D. S05E16: Inside Voices,42,TV,FALSE
+Agents of S.H.I.E.L.D. S05E17: The Honeymoon,,TV,FALSE
+Agents of S.H.I.E.L.D. S05E18: All Roads Lead ...,,TV,FALSE
+Avengers: Infinity War,,TV,FALSE
+Agents of S.H.I.E.L.D. S05E19: Option Two,,TV,FALSE
+Agents of S.H.I.E.L.D. S05E20:,,TV,FALSE
+Agents of S.H.I.E.L.D. S05E21:,,TV,FALSE
+Agents of S.H.I.E.L.D. S05E22:,,TV,FALSE
